@@ -11,3 +11,386 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bg-body-tertiary {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white !important;
+}
+#basic-navbar-nav {
+  flex-grow: 0;
+}
+#registerBtn {
+  background-color: #133D7A;
+  border-radius: 4px;
+  padding: 10px 25px;
+}
+.loginMenu {
+  color: #1676F3 !important;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.5px;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 17px;
+}
+.menuLink {
+  color: #333;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18.88px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.imageBg {
+  width: 100%;
+}
+
+.hero-content {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+
+.heroImg {
+  position: absolute;
+  left: 51%;
+  top: 14%;
+}
+.discoverText {
+  margin-top: 30vh;
+}
+.heroTitle {
+  color: #133D7A;
+  text-align: left;
+}
+.heroTitleAi {
+  color: #001C44;
+  text-align: left;
+}
+.heroP {
+  color: #676767;
+  font-size: 20px;
+  text-align: left;
+  width: 75%;
+}
+#heroBtn {
+  background-color: #133D7A;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 20px;
+  padding-left: 23px;
+  padding-right: 23px;
+  float: left;
+  margin-top: 15px;
+}
+.pathText {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 60px;
+}
+.pathSectionImg{
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+.pathCard {
+  padding: 40px;
+  text-align: center;
+  padding-top: 40px;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25) !important;
+  border-radius: 13px;
+  border: 1px solid #D0D0D0;
+  background: #FFF;
+}
+.cardTitle {
+  color: #133D7A;
+  font-size: 32px;
+  font-weight: 500;
+}
+.cardLabel {
+  color: #000;
+  font-size: 20px;
+  font-weight: 500;
+}
+.cardText {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 126.023%;
+  margin-top: 5px;
+}
+.cardBtn {
+  border-radius: 5px;
+  background: #133D7A;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 37px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+}
+.cardBody {
+  padding: 0 !important;
+}
+.aboveFooterDiv {
+  background-color: #00698A;
+}
+.fooText {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 126.023%;
+  float: left;
+}
+.footerDiv {
+  background-color: #001534;
+}
+.getinTouch{
+  border-radius: 4px;
+  background: #FFF;
+  color: #133D7A;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 126.023%;
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.rowAboveFooter {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.followtext {
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 500;
+}
+.socialMediaImg {
+  width: 30px;
+  height: 30px;
+}
+.stackSocial {
+  margin-top: 20px;
+}
+.socialDiv {
+  margin-top: 40px;
+}
+.menuHeading {
+  color: #FFF;
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 600;
+}
+.menuLink {
+  color: #B1B1B1;
+  text-align: justify;
+  font-size: 16px;
+  font-weight: 400;
+  list-style: none;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0;
+  padding-top: 22px;
+}
+.menuDiv {
+  width: 100% !important;
+}
+.menuDiv ul {
+  padding: 0;
+}
+.newsletterText {
+  color: #FFF;
+  font-size: 27.323px;
+  font-weight: 600;
+  line-height: normal;
+}
+.newsletterPara {
+  color: #B1B1B1;
+  font-size: 18.215px;
+  font-weight: 400;
+  line-height: normal;
+}
+.subsBtn {
+  padding: 12px;
+  color: white;
+}
+.footerMain {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+.termsText {
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: normal;
+  float: right;
+}
+.inputBox {
+  border-radius: 4px;
+  border: 1px solid rgba(28, 52, 84, 0.26);
+  height: 54.306px;
+}
+.inputLabel {
+  color: rgba(27, 43, 65, 0.72);
+  font-size: 16.156px;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.inputWrap {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.radio-container {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+.radioLabel {
+  margin-right: 10px;
+}
+.regiserText {
+  color: rgba(27, 43, 65, 0.72);
+  font-size: 16.156px;
+  font-weight: 400;
+  line-height: normal;
+}
+.registerBtn {
+  border-radius: 4px;
+  background: #133D7A;
+  padding: 16px 95px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.btnClass {
+  margin-top: 30px;
+}
+.alreadyReg {
+  color: #000;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 125.303%;
+  margin-top: 30px;
+}
+.registerCol {
+  border-left: 1px solid rgba(0, 0, 0, 0.21);
+}
+.loginBtn {
+  border-radius: 4px;
+  background: #133D7A;
+  padding: 16px 95px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.employersText {
+  color: #133D7A;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 126.023%;
+}
+.empTalent {
+  color: #000;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 126.023%;
+}
+.talentPara {
+  color: #747474;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 126.023%; 
+}
+
+.background-image-container {
+  /* background-size: cover; */
+  /* background-position: center; */
+  margin-top: 40px;
+  background-repeat: no-repeat;
+  height: 50vh;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+}
+.text-overlay {
+  text-align: center;
+  padding: 20px;
+  margin-top: 80px;
+}
+.text-overlay h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.text-overlay p {
+  font-size: 18px;
+}
+.discoverDiv {
+  margin-top: 60px;
+}
+.textOverlay {
+  color: #FFF;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 126.023%;
+}
+.overlBtn {
+  border-radius: 5px;
+  background: #FFF;
+  color: #133D7A;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+@media (max-width: 768px) {
+  .discoverText {
+    margin-top: 0vh;
+  }
+  .col-6 {
+    flex: 0 0 auto;
+    width: 100% !important;
+  }
+  .hero-content {
+    top: 35%
+  }
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+  .hero-content h2 {
+    font-size: 1.5rem;
+  }
+  .heroP {
+    width: 100%;
+    font-size: 16px;
+  }
+  #heroBtn {
+    font-size: 14px;
+    margin-top: 0;
+  }
+}

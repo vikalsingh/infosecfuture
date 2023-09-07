@@ -1,0 +1,15 @@
+export const Images = {
+    logo: require('../images/logo.png'),
+    bgHeader: require('../images/bg.png'),
+    heroImg: require('../images/heroImg.png'),
+    firstImg: require('../images/first.png'),
+    secondImg: require('../images/second.png'),
+    thiredImg: require('../images/thired.png'),
+    footerLogo: require('../images/footerLogo.png'),
+    twitterImg: require('../images/twitter.png'),
+    facebookImg: require('../images/facebook.png'),
+    instagramImg: require('../images/instagram.png'),
+    linkedinImg: require('../images/linkedin.png'),
+    talentImg: require('../images/talent.png'),
+    discoverImg: require('../images/discover.png'),
+}
